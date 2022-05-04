@@ -23,7 +23,13 @@ OPHION 장비 개발 및 임상 진행.
 ## 뉴스 기사
 
 ### 2022년 4월 12일
+- ["SBS biz Pick-up! 트렌드! 스페셜 무채혈 분광기 소개 방송"](https://youtu.be/8ywrP_bUyNE)
+
+### 2022년 4월 12일
 - ["무송엘티씨, 고려대 구로병원·안암병원서 동시 무채혈 진단기 오피온 임상 중"](http://www.segyebiz.com/newsView/20220411518835?OutUrl=naver)
+
+### 2022년 4월 10일
+- ["SBS biz 스마일, 아픔없이 측정한다? 무채혈 분광기 소개 방송"](https://youtu.be/5V4t891HsrM)
 
 ### 2022년 1월 11일
 - Blockchain 개발 업무 협조 계약 진행 (BOLDEX)
