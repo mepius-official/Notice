@@ -22,6 +22,9 @@ OPHION 장비 개발 및 임상 진행.
 # ISSUES
 ## 뉴스 기사
 
+### 2022년 5월 3일
+- ["MBN 생생정보마당 무채혈 분광기 오피온 소개 방송"](https://youtu.be/7I8kFvp4DRI)
+
 ### 2022년 4월 12일
 - ["SBS biz Pick-up! 트렌드! 스페셜 무채혈 분광기 소개 방송"](https://youtu.be/8ywrP_bUyNE)
 
