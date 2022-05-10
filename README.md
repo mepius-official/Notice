@@ -52,6 +52,9 @@ OPHION 장비 개발 및 임상 진행.
   Klaytn 소스 코드 및 합의 알고리즘 분석
 
 # Account History
+## ERC-20 토큰생성정보
+0x432102913fc4380A99A1A8A70bA466A88BC954cd
+["Contract Address"](https://etherscan.io/token/0x432102913fc4380A99A1A8A70bA466A88BC954cd)
 
 # 계좌 이체 
 | 날짜 | 수량 | 계정 | 이벤트 | 연관주소 | TXID |
@@ -89,3 +92,4 @@ OPHION 장비 개발 및 임상 진행.
 3. 2022-01-05 Token 전송 및 하드웰렛 저장 테스트
 4. 2022-01-07 Token 전송 테스트 및 klayswap 테스트 완료
 5. 2022-01-10 외부 지갑 1 Klay 전송 테스트
+6. 2022-05-09 ERC-20 Token 생성
